@@ -49,7 +49,8 @@ function App() {
             <li>
               <a href="https://react.dev/" target="_blank">
                 <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
+
+                Learn more about how much haima loves rozi
               </a>
             </li>
           </ul>
